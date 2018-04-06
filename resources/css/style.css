@@ -18,9 +18,44 @@ nav a {
   padding-bottom: 30px;
 }
 
-
-
 h1 {
   font-size: 70px;
   font-weight: bold;
+  }
+
+  /*-----supporting section-----*/
+
+  h2 {
+    text-align: center;
+    font-size: 32;
+    font-weight: bold;
+  }
+
+  .process {
+    text-align: center;
+  }
+
+  h3 {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  p {
+    font-family: Helvetica;
+    font-size: 14px;
+  }
+
+  .footer {
+    background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+
+  }
+
+  .footer,
+  h3 {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
   }
